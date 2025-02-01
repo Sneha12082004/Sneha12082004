@@ -5,10 +5,7 @@
 - I'm currently in 2nd semester of the degree.
 - 💞️ I’m looking to contribute to repositories and create new projects at the beginning of my technical journey.
 - 📫 How to reach me ... snehabanerjee469@gmail.com 
-- 😄 Pronouns: She
-- ⚡ Fun fact: Nothing😉
 
-<!---
 This is a ✨ special ✨ repository.
 <br>
 Author- Sneha Banerjee
